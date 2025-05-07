@@ -1,4 +1,4 @@
-Ссылка: https://expdh.github.io/MST-test-task-part2/
+Ссылка: https://expdh.github.io/MST-test-task-part2/<br>
 <br>
 <br>
 Сверстать блок, предоставленный на видео part_2.mp4 (доступно по ссылке с дополнительными материалами) максимально похоже.
